@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-05-25T10:38:27Z" name="Default suite" finished-at="2020-05-25T10:38:27Z" duration-ms="61">
+    <groups>
+    </groups>
+    <test started-at="2020-05-25T10:38:27Z" name="Default test" finished-at="2020-05-25T10:38:27Z" duration-ms="61">
+      <class name="TestNGSessions.HomePageTest">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:TestNGSessions.HomePageTest@8909f18]" started-at="2020-05-25T10:38:27Z" name="launchBrowser" finished-at="2020-05-25T10:38:27Z" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="launchURL()[pri:0, instance:TestNGSessions.HomePageTest@8909f18]" started-at="2020-05-25T10:38:27Z" name="launchURL" finished-at="2020-05-25T10:38:27Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchURL -->
+        <test-method is-config="true" signature="loginToApplication()[pri:0, instance:TestNGSessions.HomePageTest@8909f18]" started-at="2020-05-25T10:38:27Z" name="loginToApplication" finished-at="2020-05-25T10:38:27Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApplication -->
+        <test-method signature="homePageTitleTest()[pri:1, instance:TestNGSessions.HomePageTest@8909f18]" started-at="2020-05-25T10:38:27Z" name="homePageTitleTest" finished-at="2020-05-25T10:38:27Z" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageTitleTest -->
+        <test-method is-config="true" signature="goToHomePage()[pri:0, instance:TestNGSessions.HomePageTest@8909f18]" started-at="2020-05-25T10:38:27Z" name="goToHomePage" finished-at="2020-05-25T10:38:27Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToHomePage -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:TestNGSessions.HomePageTest@8909f18]" started-at="2020-05-25T10:38:27Z" name="logout" finished-at="2020-05-25T10:38:27Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method signature="homePageHeaderTest()[pri:2, instance:TestNGSessions.HomePageTest@8909f18]" started-at="2020-05-25T10:38:27Z" name="homePageHeaderTest" finished-at="2020-05-25T10:38:27Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageHeaderTest -->
+        <test-method is-config="true" signature="goToHomePage()[pri:0, instance:TestNGSessions.HomePageTest@8909f18]" started-at="2020-05-25T10:38:27Z" name="goToHomePage" finished-at="2020-05-25T10:38:27Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToHomePage -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:TestNGSessions.HomePageTest@8909f18]" started-at="2020-05-25T10:38:27Z" name="logout" finished-at="2020-05-25T10:38:27Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="goToLogin()[pri:0, instance:TestNGSessions.HomePageTest@8909f18]" started-at="2020-05-25T10:38:27Z" name="goToLogin" finished-at="2020-05-25T10:38:27Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToLogin -->
+        <test-method is-config="true" signature="disconnectWithDB()[pri:0, instance:TestNGSessions.HomePageTest@8909f18]" started-at="2020-05-25T10:38:27Z" name="disconnectWithDB" finished-at="2020-05-25T10:38:27Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- disconnectWithDB -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestNGSessions.HomePageTest@8909f18]" started-at="2020-05-25T10:38:32Z" name="closeBrowser" finished-at="2020-05-25T10:38:32Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestNGSessions.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
